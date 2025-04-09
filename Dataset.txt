@@ -1,0 +1,2 @@
+Download the dataset from: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+Unzip it into this BT_dataset folder to use with the project.
