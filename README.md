@@ -15,17 +15,13 @@ A brain tumor is an aggressive disease, with over 84,000 people diagnosed with a
 - Total images: 3,260
 
 ## Project Structure
-- `notebooks/Brain_Tumor_Detection.ipynb`: Jupyter Notebook with the custom CNN implementation, preprocessing, and training code run in Google Colab.
-- `BT_dataset/`: Dataset folder (download and unzip the Kaggle dataset here).
-- `BT_dataset/placeholder.txt`: Contains the Kaggle dataset download link.
-- (Optional) `model.h5`: Trained model weights (if saved).
-- (Optional) `requirements.txt`: List of required libraries (e.g., TensorFlow, Keras).
+- `Code/Brain_Tumor_Detection.ipynb`: Jupyter Notebook with the custom CNN implementation, preprocessing, and training code run in Google Colab.
+- `BT_dataset.txt`: Contains the Kaggle dataset download link.
 
 ## How to Run
 1. Clone this repository or download the files.
-2. Download the dataset from the link in `BT_dataset/placeholder.txt` and unzip it into the `BT_dataset` folder.
-3. (Optional) Install dependencies listed in `requirements.txt` using a Python environment.
-4. Open `notebooks/Brain_Tumor_Detection.ipynb` in Google Colab or a local Jupyter Notebook and run the cells.
+2. Download the dataset from the link in `BT_dataset.txt` and unzip it into the `BT_dataset` folder.
+4. Open `Code/Brain_Tumor_Detection.ipynb` in Google Colab or a local Jupyter Notebook and run the cells.
 
 ## Results
 - Custom CNN (3 layers): 90% accuracy.
