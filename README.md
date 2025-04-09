@@ -20,8 +20,8 @@ A brain tumor is an aggressive disease, with over 84,000 people diagnosed with a
 
 ## How to Run
 1. Clone this repository or download the files.
-2. Download the dataset from the link in `BT_dataset.txt` and unzip it into the `BT_dataset` folder.
-4. Open `Code/Brain_Tumor_Detection.ipynb` in Google Colab or a local Jupyter Notebook and run the cells.
+2. Download the dataset from the link in `BT_dataset/placeholder.txt` or go through this link (https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri)
+3. Open `Code/Brain_Tumor_Detection.ipynb` in Google Colab or a local Jupyter Notebook and run the cells.
 
 ## Results
 - Custom CNN (3 layers): 90% accuracy.
